@@ -1,4 +1,4 @@
-from .app.multis import Stealer
+from .multis import Stealer
 from .enums import Senders, Features, Utils, Protectors
 from .utils import Loader, Grabber
 

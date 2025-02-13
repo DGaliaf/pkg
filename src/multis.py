@@ -5,11 +5,11 @@ from typing import List, Any
 from threading import Thread
 from multiprocessing import Pool
 
-from ..enums import Features, Utils, Protectors
-from ..helpers import functions, MemoryStorage
-from ..helpers.config import MultistealerConfig, Browsers
-from ..utils import Autostart, Message, Protector, Loader, Grabber
-from ..modules import Chromium, Discord, FileZilla, Processes, Screenshot, System, Telegram, Steam, Wallets
+from .enums import Features, Utils, Protectors
+from .helpers import functions, MemoryStorage
+from .helpers.config import MultistealerConfig, Browsers
+from .utils import Autostart, Message, Protector, Loader, Grabber
+from .modules import Chromium, Discord, FileZilla, Processes, Screenshot, System, Telegram, Steam, Wallets
 
 
 class logger_(Thread):

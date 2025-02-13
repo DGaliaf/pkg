@@ -1,12 +1,11 @@
 Metadata-Version: 2.2
 Name: multis
-Version: 1.0.3
+Version: 1.0.4
 Summary: A simple Python package
-Home-page: https://gitlab.com/pkg5702107/basicpkg
+Home-page: https://github.com/DGaliaf/pkg
 Author: test
-Author-email: test@test.com
-Project-URL: Bug Tracker, https://gitlab.com/pkg5702107/basicpkg/-/issues
-Project-URL: repository, https://gitlab.com/pkg5702107/basicpkg
+Project-URL: Bug Tracker, https://github.com/DGaliaf/pkg/issues
+Project-URL: repository, https://github.com/DGaliaf/pkg
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
